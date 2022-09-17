@@ -1,0 +1,11 @@
+input[type="text"], textarea{
+	background-color: white;
+	color: #7d8e91;
+	font-family: Raleway;
+	margin-left: -5px;
+	padding-left: 20px;
+	border: 3px solid #8ab9c5;
+	height: 75px;
+	width: 50%;
+	border-radius: 25px;
+}
